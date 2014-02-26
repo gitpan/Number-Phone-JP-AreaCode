@@ -25,13 +25,13 @@ no_index:
 provides:
   Number::Phone::JP::AreaCode:
     file: lib/Number/Phone/JP/AreaCode.pm
-    version: 20131201.1
+    version: 20131201.2
   Number::Phone::JP::AreaCode::Data::Address2AreaCode:
     file: lib/Number/Phone/JP/AreaCode/Data/Address2AreaCode.pm
   Number::Phone::JP::AreaCode::Data::AreaCode2Address:
     file: lib/Number/Phone/JP/AreaCode/Data/AreaCode2Address.pm
 requires:
-  Encode: 0
+  Encode: 2.57
   Lingua::JA::Numbers: 0
   Lingua::JA::Regular::Unicode: 0
   parent: 0
@@ -40,6 +40,6 @@ resources:
   bugtracker: https://github.com/moznion/Number-Phone-JP-AreaCode/issues
   homepage: https://github.com/moznion/Number-Phone-JP-AreaCode
   repository: git://github.com/moznion/Number-Phone-JP-AreaCode.git
-version: 20131201.1
+version: 20131201.2
 x_contributors:
   - 'ytnobody <ytnobody@gmail.com>'

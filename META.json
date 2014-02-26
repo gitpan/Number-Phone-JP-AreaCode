@@ -47,7 +47,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Encode" : "0",
+            "Encode" : "2.57",
             "Lingua::JA::Numbers" : "0",
             "Lingua::JA::Regular::Unicode" : "0",
             "parent" : "0",
@@ -64,7 +64,7 @@
    "provides" : {
       "Number::Phone::JP::AreaCode" : {
          "file" : "lib/Number/Phone/JP/AreaCode.pm",
-         "version" : "20131201.1"
+         "version" : "20131201.2"
       },
       "Number::Phone::JP::AreaCode::Data::Address2AreaCode" : {
          "file" : "lib/Number/Phone/JP/AreaCode/Data/Address2AreaCode.pm"
@@ -84,7 +84,7 @@
          "web" : "https://github.com/moznion/Number-Phone-JP-AreaCode"
       }
    },
-   "version" : "20131201.1",
+   "version" : "20131201.2",
    "x_contributors" : [
       "ytnobody <ytnobody@gmail.com>"
    ]
