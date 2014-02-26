@@ -64,7 +64,7 @@
    "provides" : {
       "Number::Phone::JP::AreaCode" : {
          "file" : "lib/Number/Phone/JP/AreaCode.pm",
-         "version" : "20131201"
+         "version" : "20131201.1"
       },
       "Number::Phone::JP::AreaCode::Data::Address2AreaCode" : {
          "file" : "lib/Number/Phone/JP/AreaCode/Data/Address2AreaCode.pm"
@@ -84,7 +84,7 @@
          "web" : "https://github.com/moznion/Number-Phone-JP-AreaCode"
       }
    },
-   "version" : "20131201",
+   "version" : "20131201.1",
    "x_contributors" : [
       "ytnobody <ytnobody@gmail.com>"
    ]

@@ -25,7 +25,7 @@ no_index:
 provides:
   Number::Phone::JP::AreaCode:
     file: lib/Number/Phone/JP/AreaCode.pm
-    version: 20131201
+    version: 20131201.1
   Number::Phone::JP::AreaCode::Data::Address2AreaCode:
     file: lib/Number/Phone/JP/AreaCode/Data/Address2AreaCode.pm
   Number::Phone::JP::AreaCode::Data::AreaCode2Address:
@@ -40,6 +40,6 @@ resources:
   bugtracker: https://github.com/moznion/Number-Phone-JP-AreaCode/issues
   homepage: https://github.com/moznion/Number-Phone-JP-AreaCode
   repository: git://github.com/moznion/Number-Phone-JP-AreaCode.git
-version: 20131201
+version: 20131201.1
 x_contributors:
   - 'ytnobody <ytnobody@gmail.com>'
